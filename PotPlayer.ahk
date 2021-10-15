@@ -1,3 +1,8 @@
+I_Icon = C:\Workspace\AutoHotKey\Icons\MindMixPot-phidndev.ico
+IfExist, %I_Icon%
+Menu, Tray, Icon, %I_Icon%
+;return
+
 ^Space::
 IfWinActive, ahk_class MindManager21WndClass 
 {
