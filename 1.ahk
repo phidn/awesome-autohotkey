@@ -1,17 +1,10 @@
-I_Icon = C:\Workspace\AutoHotKey\Icons\1.ico
-IfExist, %I_Icon%
-Menu, Tray, Icon, %I_Icon%
-
+; ahk_class PotPlayer64
 LControl & Space::
   SendMessage,0x0111,20001,,,ahk_class PotPlayer64
 return
 
 LControl & Numpad4::
   PotPlayer_JumpBackward()
-return
-
-LControl & Numpad6::
-  PotPlayer_JumpForward()
 return
 
 PotPlayer_JumpForward() ; Set for 5 seconds but seems to jump an arbitrary amount.

@@ -9,6 +9,7 @@ The ultimate automation scripting language for Windows.`
 ## References
 - https://www.autohotkey.com/docs/AutoHotkey.htm
 - https://github.com/phidnhh/awesome-autohotkey/blob/master/[vi]-SimpleDocument.md
+- https://github.com/Ixiko/AHK-libs-and-classes-collection/blob/master/libs/o-z/potplayer.ahk
 
 -------------
 *Ever has it been that love knows not its own depth until the hour of separation.*
