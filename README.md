@@ -2,11 +2,11 @@
 `Powerful. Easy to learn.
 The ultimate automation scripting language for Windows.`
 
-## Requirements
+## 🖐 Requirements
 - Windows operating system
 - AutoHotKey software
 
-## References
+## 🔗 Links
 - https://www.autohotkey.com/docs/AutoHotkey.htm
 - https://github.com/phidnhh/awesome-autohotkey/blob/master/[vi]-SimpleDocument.md
 - https://github.com/Ixiko/AHK-libs-and-classes-collection/blob/master/libs/o-z/potplayer.ahk
@@ -15,4 +15,4 @@ The ultimate automation scripting language for Windows.`
 *Ever has it been that love knows not its own depth until the hour of separation.*
 
 Dang Nhat Phi  
-Thanks for watching with love and light.
+With love & light
